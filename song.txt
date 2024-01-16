@@ -1,2 +1,4 @@
 song text test
 text of the song
+new line in our song
+another line text
